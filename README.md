@@ -27,7 +27,7 @@ _Лабораторная работа 2.2 Импорт и использова�
 
 Используя модуль math, вычислите площадь круга по заданному радиусу:
 
-![task_01_2_01]([https://skrinshoter.ru/s/261025/g3E3YTes.jpg?download=1&name=Скриншот-26-10-2025%2016:57:47.jpg])
+<img width="1092" height="492" alt="image" src="https://github.com/user-attachments/assets/f985abb7-0ede-403d-a271-784bd1c9aa96" />
 
 ```
 import math
@@ -47,7 +47,8 @@ except ValueError:
 
 Используя модуль random, сгенерируйте случайное целое число в заданном диапазоне (включительно):
 
-![task_01_2_01]([https://skrinshoter.ru/s/261025/SOyZdaYJ.jpg?download=1&name=Скриншот-26-10-2025%2017:06:39.jpg])
+<img width="1072" height="363" alt="image" src="https://github.com/user-attachments/assets/c46a6e4e-43ba-402e-b088-7c95925922ca" />
+
 
 ```
 import random
@@ -71,7 +72,8 @@ except ValueError:
 
 Используя модуль datetime, выведите текущую дату и время в формате ГГГГ-ММДД ЧЧ:ММ:СС:
 
-![task_01_2_01]([https://skrinshoter.ru/s/261025/6TdB6rjy.jpg?download=1&name=Скриншот-26-10-2025%2017:04:32.jpg])
+<img width="1054" height="478" alt="image" src="https://github.com/user-attachments/assets/3b176101-7d93-48b5-be8f-9751ed13a8f5" />
+
 
 ```
 import datetime
